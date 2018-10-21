@@ -1,0 +1,12 @@
+<svg id="vb-analytics" xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 512 512">
+    <circle r="35" cx="50" cy="172" />
+    <circle r="35" cx="191" cy="40" />
+    <circle r="35" cx="321" cy="150" />
+    <circle r="35" cx="458" cy="38" />
+    <path d="M190 49.8L319 168 460 49.8V20L319 139 190 20 48.8 160l-.1 29z" />
+    <path d="M 0 332 L 0 507 L 100 507 L 100 332 L 0 332 z M 25 357 L 75 357 L 75 482 L 25 482 L 25 357 z" />
+    <path d="M 134,213 V 508 H 235 V 213 Z m 25,24 h 50 v 245 h -50 z"/>
+    <path d="M 272,283 V 509 H 373 V 283 Z m 25,26 h 50 v 172 h -50 z" />
+    <path d="M 411,213 V 508 H 512 V 213 Z m 25,24 h 50 v 245 h -50 z" />
+</svg>

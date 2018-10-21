@@ -1,0 +1,8 @@
+<svg id="vb_compass" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="#42a5f5">
+   <circle cx="256" cy="256" r="250" />
+   <circle cx="256" cy="256" r="224" fill="snow" />
+   <polygon points="205,194 93,399 310,316" />
+   <polygon points="205,194 424,113 310,316" fill="#ff7043"/>
+   <circle cx="256" cy="256" r="25" />
+   <circle cx="256" cy="256" r="38" fill="snow"/>
+</svg>

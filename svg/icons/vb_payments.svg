@@ -1,0 +1,22 @@
+<svg id="vb_payments" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="#42a5f5">
+  <defs>
+    <rect id="arrow" rx="15" ry="15" x="0" y="0" width="100" height="30" />
+  </defs>
+  <rect rx="18" ry="18" x="115" y="52" width="36" height="340" />
+  <rect rx="18" ry="18" x="394" y="144" width="36" height="310" />
+  <rect ry="18" rx="18" x="120" y="144" width="306" height="36" />
+  <rect x="212" y="172" height="255" width="30" />
+  <rect x="304" y="172" height="255" width="30" />
+  <rect x="142" y="240" height="30" width="255" />
+  <rect x="150" y="330" height="30" width="155" />
+  <g fill="#ffd180">
+    <rect rx="18" ry="18" x="115" y="52" width="350" height="36"/>
+    <use href="#arrow" transform="translate(430,0) rotate(45)" />
+    <use href="#arrow" transform="translate(408,120) rotate(-45)" />
+  </g>
+  <g fill="#ff7043">
+    <rect rx="18" ry="18" x="40" y="420" width="390" height="36" />
+    <use href="#arrow" transform="translate(2,438) rotate(-45)" />
+    <use href="#arrow" transform="translate(24,418) rotate(45)" />
+  </g>
+</svg>

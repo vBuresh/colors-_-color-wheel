@@ -1,0 +1,24 @@
+<svg id="vb_cottage" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <g fill="#42a5f5">
+    <circle cx="398" cy="288" r="28"/>
+    <path
+      d="M502 320c1 6-3 13-9 14-23 6-45 10-66 13 1 85 10 103 20 130 3 8 0 16-8 19s-16 0-19-8c-7-18-14-33-18-65h-7c-5 32-11 47-18 65-3 8-12 11-20 8-7-3-11-11-8-19 11-27 20-45 20-130-21-3-42-7-65-13-7-1-11-8-9-14 1-7 8-10 14-9 78 18 100 18 178 0 7-1 13 2 15 9z"/>
+    <path d="M224 500h25V318h-72l-39 39H11v143l152-1V386h61v114zM37 396h97v65H37v-65z"/>
+    <path d="M280 83h125v14H280zM280 110h125v15H280zM279 138h126v14H279z"/>
+    <path d="M416 151V65H264v88h-25V49l102-37 99 37v102z"/>
+  </g>
+  <path fill="#ff7043" d="M172 306h80v-6L139 198 8 313l1 28h124l39-35zm-80-33h46v45H92v-45zm-50-7v-60h36v29l-36 31z"/>
+  <g fill="#ffd180">
+    <rect x="44" y="130" width="30" height="30"/>
+    <rect x="104" y="70" width="30" height="30"/>
+    <rect x="164" y="70" width="30" height="30"/>
+    <rect x="472" y="70" width="30" height="30"/>
+    <rect x="472" y="130" width="30" height="30"/>
+    <rect x="472" y="190" width="30" height="30"/>
+    <rect x="472" y="250" width="30" height="30"/>
+    <rect x="472" y="370" width="30" height="30"/>
+    <rect x="472" y="430" width="30" height="30"/>
+    <rect x="286" y="430" width="30" height="30"/>
+    <rect x="44" y="70" width="30" height="30"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="vb-manag-acc" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M247 198h19v49h-19z" />
+  <path d="M242 181h29l-15 33z" />
+  <ellipse ry="74" rx="56.1" cy="96" cx="256" />
+  <path d="M387 241c1 49-59 99-131 99-73 0-130-50-131-99 0-38 39-70 90-81l41 87 42-87c51 12 89 44 89 81z" />
+  <circle r="39.3" cx="90" cy="416"/>
+  <circle r="40" cx="254" cy="473"/>
+  <circle r="40" cx="420" cy="416"/>
+  <path d="M124 359c35 27 80 43 132 43 53 0 96-15 130-40l-25-26c-29 21-64 33-105 33-42 0-78-13-108-34z"/>
+  <rect id="cube" rx="15" ry="15" x="244" y="380" width="24" height="100"/>
+  <use href="#cube" transform="translate(246,-108) rotate(45)"/>
+  <use href="#cube" transform="translate(-98,256) rotate(-45)"/>
+</svg>

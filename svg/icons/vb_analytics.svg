@@ -1,0 +1,15 @@
+<svg id="vb_analytics" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<g fill="#ff7043" >
+  <circle r="35" cx="51" cy="177"/>
+  <circle r="35" cx="191" cy="38" />
+  <circle r="35" cx="321" cy="150"/>
+  <circle r="35" cx="463" cy="38" />
+</g>
+  <g fill="none" stroke="#42a5f5" stroke-width="28">
+    <path d="M50.8 178L192 38l129 119L462 38" stroke="#ff7043" />
+    <rect x="14" y="346" width="70" height="150" />
+    <rect x="150" y="226" width="70" height="270" />
+    <rect x="286" y="296" width="70" height="200" />
+    <rect x="428" y="224" width="70" height="270" />
+  </g>
+</svg>

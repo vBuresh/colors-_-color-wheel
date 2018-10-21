@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="0" y="0" fill="#69D2E7" width="102" height="160"/>
+  <rect x="100" y="0" fill="#A7DBD8" width="102" height="160"/>
+  <rect x="200" y="0" fill="#E0E4CC" width="102" height="160"/>
+  <rect x="300" y="0" fill="#F38630" width="102" height="160"/>
+  <rect x="400" y="0" fill="#FA6900" width="102" height="160"/>
+  <a href="https://www.colourlovers.com/palette/92095/Giant_Goldfish" target="_blank">
+    <text x="5" y="200" font-family="'Noto Sans'" font-size="24" fill="#FA6900">
+      Giant Goldfish
+      <tspan x="5" y="220" font-size="18" font-style="italic" fill="#F38630">
+        By manekineko</tspan>
+    </text>
+  </a>
+</svg>

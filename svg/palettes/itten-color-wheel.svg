@@ -1,0 +1,136 @@
+<svg id="itten-color-wheel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 512 ">
+  <desc>
+  Цветовой круг по Иоханнесу Иттену (1961). Иоханнес Иттен (11.11.1888 -  27.05.1967) - швейцарский художник, теоретик нового искусства и педагог. Получил всемирную известность благодаря сформированному им учебному курсу Баухауза, так называемому форкурсу, который лёг в основу преподавания многих современных начальных художественных учебных заведений.
+  </desc>
+<title>Itten Color Wheel</title>
+<g id="itten-color-wheel">
+    <!-- Vivid orange -->
+    <path fill="#ea621f" d="M512 256c0-23-3-45-9-66l-53-15-30 37c5 14 6 29 6 44s-1 30-6 44l29 43 54-21c6-21 9-43 9-66z" />
+  <!-- Strong cyan -->
+    <path fill="#0696bb" d="M0 256c0 23 3 45 8.66 66l50.64 17 32.1-39c-3.9-14-6-29-6-44s2.1-30 6-44L59 178 8.67 190C3 211 0 233 0 256z"  />
+  <!-- Vivid yellow -->
+    <path fill="#fdc60b" d="M384 34.6c-20-12-41-19.5-62-25.56L285 40.7l15 51.2c15 3 28 9.1 42 16.1 13 8 24 17 34 28l49-13 12-47.7c-15-15.1-33-30.1-53-40.7z" />
+    <!-- Dark moderate blue -->
+    <path fill="#444e99" d="M128 477c20 12 41 20 62 26l45-33-23-50c-15-3-28-9-42-16-13-8-24-17-35-28l-49.8 11-10.4 50c15.6 15 33.2 30 53.2 40z" />
+  <!-- Strong green -->
+    <path fill="#8cbb26" d="M128 34.6c-20 10.6-37.6 25.6-53.2 40.7l9.8 50.7 50.4 10c11-11 22-20 35-28 14-7 27-13.1 42-16.1l20-48.2-42-34.66c-21 6.06-42 13.56-62 25.56z" />
+    <!-- Strong pink -->
+    <path fill="#c4037d" d="M384 477c20-10 38-25 53-40l-9-55-52-6c-10 11-21 20-34 28-14 7-27 13-42 16l-14 50 36 33c21-6 42-14 62-26z" />
+  <!-- Dark moderate violet -->
+    <path fill="#6d398b" d="M108 342l146-54 150 54-148 84zm148 170c23 0 45-3 66-9l-22-83c-14 5-29 6-44 6s-30-1-44-6l-22 83c21 6 43 9 66 9z" />
+    <!-- Dark cyan - lime green -->
+    <path fill="#008e5b" d="M256 85.8L221 236 108 342V170zM34.3 128c-11.4 20-20 41-25.66 62l82.66 22c3.7-15 8.7-28 16.7-42 8-13 17-24 28-34L75 75.3C59.5 90.4 45.8 108 34.3 128z" />
+  <!-- Vivid orange -->
+    <path fill="#f18e1c" d="M404 342L288 239 256 85.8 404 170zm73-214c-10-20-25-37.6-40-52.7L376 136c11 10 20 21 28 34 7 14 13 27 16 42l83-22c-6-21-14-42-26-62z" />
+    <!-- Dark blue -->
+    <path fill="#2a71b0" d="M300 230l-44 112H108l74-128zM34.3 384c11.5 20 25.2 38 40.7 53l61-61c-11-10-20-21-28-34-8-14-13-27-16.7-42L8.64 322c5.66 21 14.26 42 25.66 62z" />
+  <!-- Vivid red -->
+    <path fill="#e32322" d="M256 256l18-54 56 12 74 128H256zm221 128c12-20 20-41 26-62l-83-22c-3 15-9 28-16 42-8 13-17 24-28 34l61 61c15-15 30-33 40-53z" />
+  <!-- Pure (or mostly pure) yellow -->
+    <path fill="#f4e500" d="M256 256l-74-42 74-128.2L330 214zm0-256c-23 0-45 3.01-66 9.04l22 82.86c14-4.6 29-6.1 44-6.1s30 1.5 44 6.1l22-82.86C301 3.01 279 0 256 0z"  />
+    <text x="0" y="20" font-family="'Noto Sans'" font-weight="bold" font-size="22" fill="#c4037d">
+      Color wheel
+      <a href="https://ru.wikipedia.org/wiki/%D0%98%D1%82%D1%82%D0%B5%D0%BD,_%D0%98%D0%BE%D0%B3%D0%B0%D0%BD%D0%BD%D0%B5%D1%81" target="_blank">
+      <tspan x="370" y="510" font-weight="normal" font-size="18" font-style="italic" fill="#8cbb26">
+        By Johannes Itten</tspan>
+      </a>
+    </text>
+  </g>
+
+  <rect fill="#ea621f" x="550" y="50"   width="90"  height="35"/>
+  <rect fill="#0696bb" x="550" y="85" width="90"  height="35"/>
+  <rect fill="#fdc60b" x="550" y="120" width="90"  height="35"/>
+  <rect fill="#444e99" x="550" y="155" width="90" height="35"/>
+  <rect fill="#8cbb26" x="550" y="190" width="90" height="35"/>
+  <rect fill="#c4037d" x="550" y="225" width="90" height="35"/>
+  <rect fill="#6d398b" x="550" y="260" width="90" height="35"/>
+  <rect fill="#008e5b" x="550" y="295" width="90" height="35"/>
+  <rect fill="#f18e1c" x="550" y="330" width="90" height="35"/>
+  <rect fill="#2a71b0" x="550" y="365" width="90" height="35"/>
+  <rect fill="#e32322" x="550" y="400" width="90" height="35"/>
+  <rect fill="#f4e500" x="550" y="435" width="90" height="35"/>
+
+  <rect fill="rgb(234,98,31)"  x="642" y="50"  width="150"  height="35"/>
+  <rect fill="rgb(6,150,187)"  x="642" y="85"  width="150"  height="35"/>
+  <rect fill="rgb(253,198,11)" x="642" y="120" width="150"  height="35"/>
+  <rect fill="rgb(68,78,153)"  x="642" y="155" width="150" height="35"/>
+  <rect fill="rgb(140,187,38)" x="642" y="190" width="150" height="35"/>
+  <rect fill="rgb(196,3,125)"  x="642" y="225" width="150" height="35"/>
+  <rect fill="rgb(109,57,139)" x="642" y="260" width="150" height="35"/>
+  <rect fill="rgb(0,142,91)"   x="642" y="295" width="150" height="35"/>
+  <rect fill="rgb(241,142,28)" x="642" y="330" width="150" height="35"/>
+  <rect fill="rgb(42,113,176)" x="642" y="365" width="150" height="35"/>
+  <rect fill="rgb(227,35,34)"  x="642" y="400" width="150" height="35"/>
+  <rect fill="rgb(244,229,0)"  x="642" y="435" width="150" height="35"/>
+
+  <rect fill="#ea621f" x="794" y="50"  width="224" height="35"/>
+  <rect fill="#0696bb" x="794" y="85"  width="224" height="35"/>
+  <rect fill="#fdc60b" x="794" y="120" width="224" height="35"/>
+  <rect fill="#444e99" x="794" y="155" width="224" height="35"/>
+  <rect fill="#8cbb26" x="794" y="190" width="224" height="35"/>
+  <rect fill="#c4037d" x="794" y="225" width="224" height="35"/>
+  <rect fill="#6d398b" x="794" y="260" width="224" height="35"/>
+  <rect fill="#008e5b" x="794" y="295" width="224" height="35"/>
+  <rect fill="#f18e1c" x="794" y="330" width="224" height="35"/>
+  <rect fill="#2a71b0" x="794" y="365" width="224" height="35"/>
+  <rect fill="#e32322" x="794" y="400" width="224" height="35"/>
+  <rect fill="#f4e500" x="794" y="435" width="224" height="35"/>
+
+  <g font-family="'Noto Sans'" font-size="18" fill="black">
+      <text>
+        <tspan x="950" y="20" font-weight="bold" font-size="22" fill="#6d398b">
+        Colors</tspan>
+        <a href="https://www.colorhexa.com/ea621f" target="_blank">
+          <tspan x="558" y="75"> #ea621f </tspan>
+          <tspan x="650" y="75">rgb(234,98,31)</tspan>
+          <tspan x="800" y="75">Vivid orange</tspan></a>
+        <a href="https://www.colorhexa.com/0696bb" target="_blank">
+          <tspan x="558" y="110"> #0696bb </tspan>
+          <tspan x="650" y="110">rgb(6,150,187)</tspan>
+          <tspan x="800" y="110">Strong cyan</tspan></a>
+        <a href="https://www.colorhexa.com/fdc60b" target="_blank">
+          <tspan x="558" y="145"> #fdc60b </tspan>
+          <tspan x="650" y="145">rgb(253,198,11)</tspan>          <tspan x="800" y="145">Vivid yellow</tspan></a>
+        <a href="https://www.colorhexa.com/444e99" target="_blank">
+          <tspan x="558" y="180"> #444e99 </tspan>
+          <tspan x="650" y="180"> rgb(68,78,153)</tspan>
+          <tspan x="800" y="180"> Dark moderate blue</tspan></a>
+        <a href="https://www.colorhexa.com/8cbb26" target="_blank">
+          <tspan x="558" y="215"> #8cbb26 </tspan>
+          <tspan x="650" y="215"> rgb(140,187,38)</tspan>
+          <tspan x="800" y="215"> Strong green</tspan></a>
+        <a href="https://www.colorhexa.com/c4037d" target="_blank">
+          <tspan x="558" y="250"> #c4037d </tspan>
+          <tspan x="650" y="250"> rgb(196,3,125)</tspan>
+          <tspan x="800" y="250"> Strong pink</tspan></a>
+        <a href="https://www.colorhexa.com/6d398b" target="_blank">
+          <tspan x="558" y="285"> #6d398b </tspan>
+          <tspan x="650" y="285"> rgb(109,57,139)</tspan>
+          <tspan x="800" y="285"> Dark moderate violet</tspan></a>
+        <a href="https://www.colorhexa.com/008e5b" target="_blank">
+          <tspan x="558" y="320"> #008e5b </tspan>
+          <tspan x="650" y="320"> rgb(0,142,91)</tspan>
+          <tspan x="800" y="320"> Dark cyan - lime green</tspan></a>
+        <a href="https://www.colorhexa.com/f18e1c" target="_blank">
+          <tspan x="558" y="355"> #f18e1c </tspan>
+          <tspan x="650" y="355"> rgb(241,142,28)</tspan>
+          <tspan x="800" y="355"> Vivid orange </tspan></a>
+        <a href="https://www.colorhexa.com/2a71b0" target="_blank">
+          <tspan x="558" y="390"> #2a71b0 </tspan>
+          <tspan x="650" y="390"> rgb(42,113,176)</tspan>
+          <tspan x="800" y="390"> Dark blue </tspan></a>
+        <a href="https://www.colorhexa.com/e32322" target="_blank">
+          <tspan x="558" y="425"> #e32322 </tspan>
+          <tspan x="650" y="425"> rgb(227,35,34) </tspan>
+          <tspan x="800" y="425"> Vivid red </tspan></a>
+        <a href="https://www.colorhexa.com/f4e500" target="_blank">
+          <tspan x="558" y="460"> #f4e500 </tspan>
+          <tspan x="650" y="460"> rgb(244,229,0) </tspan>
+          <tspan x="800" y="460"> Pure (mostly pure) yellow </tspan></a>
+
+      </text>
+  </g>
+
+  <rect x="0" y="0" width="510" height="510" fill="none" stroke="#008e5b" stroke-width="2"/>
+  <rect x="0" y="0" width="1022" height="510" fill="none" stroke="#CC0F16" stroke-width="2"/>
+</svg>

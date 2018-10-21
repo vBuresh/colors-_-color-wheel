@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="0" y="0" fill="#EFB2C1" width="102" height="160"/>
+  <rect x="100" y="0" fill="#9FEAFF" width="102" height="160"/>
+  <rect x="200" y="0" fill="#B4E4CA" width="102" height="160"/>
+  <rect x="300" y="0" fill="#C4C1D2" width="102" height="160"/>
+  <rect x="400" y="0" fill="#FBC7B2" width="102" height="160"/>
+  <a href="https://www.colourlovers.com/palette/4604052/holo_pastels" target="_blank">
+    <text x="5" y="200" font-family="'Noto Sans'" font-size="24" fill="#EFB2C1">
+      holo pastels
+      <tspan x="5" y="220" font-size="18" font-style="italic" fill="#FBC7B2">
+        By mgmferrer
+      </tspan>
+    </text>
+  </a>
+</svg>

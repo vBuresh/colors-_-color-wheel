@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect x="0" y="0" fill="#D1F2A5" width="102" height="160"/>
+  <rect x="100" y="0" fill="#EFFAB4" width="102" height="160"/>
+  <rect x="200" y="0" fill="#FFC48C" width="102" height="160"/>
+  <rect x="300" y="0" fill="#FF9F80" width="102" height="160"/>
+  <rect x="400" y="0" fill="#F56991" width="102" height="160"/>
+  <a href="https://www.colourlovers.com/palette/373610/Melon_Ball_Surprise" target="_blank">
+    <text x="5" y="200" font-family="'Noto Sans'" font-size="24" fill="#F56991">
+      Melon Ball Surprise
+      <tspan x="5" y="220" font-size="18" font-style="italic" fill="#FF9F80">
+        By Skyblue2u
+      </tspan>
+    </text>
+  </a>
+</svg>
