@@ -1,0 +1,60 @@
+<svg id="giant-goldfish-dd" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+    <text x="5" y="30" font-family="'Noto Sans'" font-size="24" fill="#FA6900">
+      Giant Goldfish
+      <a href="https://www.colourlovers.com/palette/92095/Giant_Goldfish" target="_blank">
+      <tspan x="185" y="30" font-size="18" font-style="italic" fill="#69D2E7">
+        By manekineko</tspan>
+      </text>
+    </a>
+  <rect x="0" y="60" fill="#69d2e7" width="102" height="160"/>
+  <rect x="100" y="60" fill="#a7dbd8" width="102" height="160"/>
+  <rect x="200" y="60" fill="#e0e4cc" width="102" height="160"/>
+  <rect x="300" y="60" fill="#f38630" width="102" height="160"/>
+  <rect x="400" y="60" fill="#fa6900" width="102" height="160"/>
+
+<rect fill="#69d2e7" x="0" y="250"   width="102"  height="35"/>
+<rect fill="rgb(105,210,231)"  x="104" y="250"  width="168"  height="35"/>
+<rect fill="#69d2e7" x="274" y="250" width="228" height="35"/>
+
+<rect fill="#a7dbd8" x="0" y="286"   width="102"  height="35"/>
+<rect fill="rgb(167, 219, 216)"  x="104" y="286"  width="168"  height="35"/>
+<rect fill="#a7dbd8" x="274" y="286" width="228" height="35"/>
+
+<rect fill="#e0e4cc" x="0" y="322"   width="102"  height="35"/>
+<rect fill="rgb(224, 228, 204)"  x="104" y="322"  width="168"  height="35"/>
+<rect fill="#e0e4cc" x="274" y="322" width="228" height="35"/>
+
+<rect fill="#f38630" x="0" y="358"   width="102"  height="35"/>
+<rect fill="rgb(243, 134, 48)"  x="104" y="358"  width="168"  height="35"/>
+<rect fill="#f38630" x="274" y="358" width="228" height="35"/>
+
+<rect fill="#fa6900" x="0" y="394"   width="102"  height="35"/>
+<rect fill="rgb(250, 105, 0)"  x="104" y="394"  width="168"  height="35"/>
+<rect fill="#fa6900" x="274" y="394" width="228" height="35"/>
+
+<g font-family="'Noto Sans'" font-size="18" fill="black">
+<text>
+<a href="https://www.colorhexa.com/69d2e7" target="_blank">
+  <tspan x="14"  y="274"> #69d2e7 </tspan>
+  <tspan x="116" y="274"> rgb(105,210,231) </tspan>
+  <tspan x="284" y="274"> Soft cyan </tspan></a>
+<a href="https://www.colorhexa.com/a7dbd8" target="_blank">
+  <tspan x="14"  y="310"> #a7dbd8 </tspan>
+  <tspan x="116" y="310"> rgb(167, 219, 216) </tspan>
+  <tspan x="284" y="310"> Very soft cyan </tspan></a>
+<a href="https://www.colorhexa.com/e0e4cc" target="_blank">
+  <tspan x="14"  y="346"> #e0e4cc </tspan>
+  <tspan x="116" y="346"> rgb(224, 228, 204) </tspan>
+  <tspan x="284" y="346"> Light grayish yellow </tspan></a>
+<a href="https://www.colorhexa.com/f38630" target="_blank">
+  <tspan x="14"  y="384"> #f38630 </tspan>
+  <tspan x="116" y="384"> rgb(243, 134, 48) </tspan>
+  <tspan x="284" y="384"> Bright orange </tspan></a>
+<a href="https://www.colorhexa.com/fa6900" target="_blank">
+  <tspan x="14"  y="420"> #fa6900 </tspan>
+  <tspan x="116" y="420"> rgb(250, 105, 0) </tspan>
+  <tspan x="284" y="420"> Pure (or mostly pure) orange </tspan></a>
+
+</text>
+<rect x="0" y="0" width="510" height="510" fill="none" stroke="#CC0F16" stroke-width="2"/>
+</svg>
