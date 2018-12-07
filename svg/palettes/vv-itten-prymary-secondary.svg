@@ -1,0 +1,8 @@
+<svg id="vv-itten-prymary-secondary" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <path d="M404 342L256 85.8 404 170z" fill="#f18e1c"/>
+  <path d="M256 85.8L108 342V170z" fill="#008e5b"/>
+  <path d="M108 342h296l-148 84z" fill="#6d398b"/>
+  <path fill="#2a71b0" d="M300 230l-44 112H108l74-128z"/>
+  <path fill="#e32322" d="M256 256l18-54 56 12 74 128H256z"/>
+  <path fill="#f4e500" d="M256 256l-74-42 74-128.2L330 214z"/>
+</svg>

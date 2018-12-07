@@ -1,0 +1,55 @@
+<svg id="vv-itten-color-wheel" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"
+style="border: solid red" >
+<title>colors play - игра цветов</title>
+
+  <text x="0" y="20" font-family="'Noto Sans'" font-weight="bold" font-size="22" fill="#c4037d">
+    Colors play
+    <tspan x="130" y="20" font-weight="normal" font-size="18" font-style="italic" fill="#8cbb26">
+      Учим английский и SVG</tspan>
+  </text>
+<desc>
+  Всё очень просто. Нужно имя цвета (на английском) указать в теге `fill` и в награду кружок окрасится в нужный цвет.
+  Все цвета, их наименования и коды соответствуют спецификации:
+  CSS Color Module Level 3 (W3C Recommendation 19 June 2018 www.w3.org/TR/css-color-3)
+    4.1. Basic color keywords
+      The list of basic color keywords is: aqua, black, blue, fuchsia, gray, green, lime, maroon, navy, olive, purple, red, silver, teal, white, and yellow. The color names are case-insensitive.
+
+1. Черный #000000 rgb(0,0,0)
+2. Серебряный #c0c0c0 rgb(192,192,192)
+3. Серый #808080 rgb(128,128,128)
+4. Белый #ffffff rgb(255,255,255)
+5. Темно-бордовый #800000 rgb(128,0,0)
+6. Красный #ff0000 rgb(255,0,0)
+7. Пурпурный #800080 rgb(128,0,128)
+8. Фуксия светло-пурпурный #ff00ff rgb(255,0,255)
+9. Зелёный #008000 rgb(0,128,0)
+10. Лайм #00ff00 rgb(0,255,0)
+11. Оливковый #808000 rgb(128,128,0)
+12. Желтый #ffff00 rgb(255,255,0)
+13. Темно-синий #000080 rgb(0,0,128)
+14. Голубой #0000ff rgb(0,0,255)
+15. Цвет `teal` (1917) #008080 rgb(0,128,128)
+16. Цвет `аква`-`вода` #00ffff rgb(0,255,255)
+</desc>
+  <circle cx="100" cy="100" r="50" fill="black" />
+  <circle cx="100" cy="200" r="50" fill="silver" />
+  <circle cx="100" cy="300" r="50" fill="gray" />
+  <circle cx="100" cy="400" r="50" fill="white" />
+
+  <circle cx="200" cy="100" r="50" fill="maroon" />
+  <circle cx="200" cy="200" r="50" fill="red" />
+  <circle cx="200" cy="200" r="50" fill="red" />
+  <circle cx="200" cy="300" r="50" fill="purple" />
+  <circle cx="200" cy="400" r="50" fill="fuchsia" />
+
+  <circle cx="300" cy="100" r="50" fill="green" />
+  <circle cx="300" cy="200" r="50" fill="lime" />
+  <circle cx="300" cy="300" r="50" fill="olive" />
+  <circle cx="300" cy="400" r="50" fill="yellow" />
+
+  <circle cx="400" cy="100" r="50" fill="navy" />
+  <circle cx="400" cy="200" r="50" fill="blue" />
+  <circle cx="400" cy="300" r="50" fill="teal" />
+  <circle cx="400" cy="400" r="50" fill="aqua" />
+
+</svg>
