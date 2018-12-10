@@ -1,0 +1,131 @@
+<svg id="vv-itten-colorwheel-lib" width="256" height="256" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <title>Цветовой круг Иоханнеса Иттена</title>
+  <desc>
+    Цветовой круг - основа теории цвета Иоханнеса Иттена. В центр круга вписаны - три ромбоида первичных (основных) цветов: желтый, синий и красный. К ним примыкают три треугольника вторичных цветов (фиолетовый, оранжевый, зелёный), полученных
+    смешиванием первичных. Эти фигуры, вписаны в круг, 12 сегметов которого состоят из 3-х первичных, 3-х вторичных и 6-ти третичных цветов.
+  </desc>
+  <defs>
+    <marker id="m1" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8">
+      <circle cx="5" cy="5" r="5" fill="000000"/>
+    </marker>
+  </defs>
+
+  <symbol id="tertiary-wheel">
+    <desc>
+      Третичные цвета; Vivid orang, Strong cyan, Vivid yellow, Dark moderate blue, Strong green, Strong pink</desc>
+    <path fill="#ea621f" d="M512 256c0-23-3-45-9-66l-53-15-30 37c5 14 6 29 6 44s-1 30-6 44l29 43 54-21c6-21 9-43 9-66z"/>
+    <path fill="#0696bb" d="M0 256c0 23 3 45 8.66 66l50.64 17 32.1-39c-3.9-14-6-29-6-44s2.1-30 6-44L59 178 8.67 190C3 211 0 233 0 256z"/>
+    <path fill="#fdc60b" d="M384 34.6c-20-12-41-19.5-62-25.56L285 40.7l15 51.2c15 3 28 9.1 42 16.1 13 8 24 17 34 28l49-13 12-47.7c-15-15.1-33-30.1-53-40.7z"/>
+    <path fill="#444e99" d="M128 477c20 12 41 20 62 26l45-33-23-50c-15-3-28-9-42-16-13-8-24-17-35-28l-49.8 11-10.4 50c15.6 15 33.2 30 53.2 40z"/>
+    <path fill="#8cbb26" d="M128 34.6c-20 10.6-37.6 25.6-53.2 40.7l9.8 50.7 50.4 10c11-11 22-20 35-28 14-7 27-13.1 42-16.1l20-48.2-42-34.66c-21 6.06-42 13.56-62 25.56z"/>
+    <path fill="#c4037d" d="M384 477c20-10 38-25 53-40l-9-55-52-6c-10 11-21 20-34 28-14 7-27 13-42 16l-14 50 36 33c21-6 42-14 62-26z"/>
+  </symbol>
+  <symbol id="secondary-wheel">
+    <desc>Вторичные цвета: Dark moderate violet, Vivid orange, Dark cyan - lime green</desc>
+    <path fill="#6d398b" d="M108 342l146-54 150 54-148 84zm148 170c23 0 45-3 66-9l-22-83c-14 5-29 6-44 6s-30-1-44-6l-22 83c21 6 43 9 66 9z"/>
+    <path fill="#008e5b" d="M256 85.8L221 236 108 342V170zM34.3 128c-11.4 20-20 41-25.66 62l82.66 22c3.7-15 8.7-28 16.7-42 8-13 17-24 28-34L75 75.3C59.5 90.4 45.8 108 34.3 128z"/>
+    <path fill="#f18e1c" d="M404 342L288 239 256 85.8 404 170zm73-214c-10-20-25-37.6-40-52.7L376 136c11 10 20 21 28 34 7 14 13 27 16 42l83-22c-6-21-14-42-26-62z"/>
+  </symbol>
+  <symbol id="primary-wheel">
+    <desc>Первичные цвета Dark blue, Vivid red, Pure (or mostly pure) yellow</desc>
+    <path fill="#2a71b0" d="M300 230l-44 112H108l74-128zM34.3 384c11.5 20 25.2 38 40.7 53l61-61c-11-10-20-21-28-34-8-14-13-27-16.7-42L8.64 322c5.66 21 14.26 42 25.66 62z"/>
+    <path fill="#e32322" d="M256 256l18-54 56 12 74 128H256zm221 128c12-20 20-41 26-62l-83-22c-3 15-9 28-16 42-8 13-17 24-28 34l61 61c15-15 30-33 40-53z"/>
+    <path fill="#f4e500" d="M256 256l-74-42 74-128.2L330 214zm0-256c-23 0-45 3.01-66 9.04l22 82.86c14-4.6 29-6.1 44-6.1s30 1.5 44 6.1l22-82.86C301 3.01 279 0 256 0z"/>
+  </symbol>
+  <symbol id="primary">
+    <path fill="#2a71b0" d="M300 230l-44 112H108l74-128z"/>
+    <path fill="#e32322" d="M256 256l18-54 56 12 74 128H256z"/>
+    <path fill="#f4e500" d="M256 256l-74-42 74-128.2L330 214z"/>
+  </symbol>
+  <symbol id="secondary">
+    <path d="M404 342L256 85.8 404 170z" fill="#f18e1c"/>
+    <path d="M256 85.8L108 342V170z" fill="#008e5b"/>
+    <path d="M108 342h296l-148 84z" fill="#6d398b"/>
+  </symbol>
+  <symbol id="monochromic">
+    <g stroke="#26c6da" stroke-width="2">
+      <path d="M497 191c12 45 12 85 0 130l-29 15-212-80 215-78z" fill="#004a71"/>
+      <path d="M321 15c44 11.8 79 32.1 112 64.6l-1 25.4-176 151 46-231.2z" fill="#016ca2"/>
+      <path d="M433 79.7C465 112 486 147 497 191l-241 65z" fill="#005b8a"/>
+      <path d="M79 79.6c33-32.5 68-52.8 112-64.6l24 13.6L256 256 78.5 105z" fill="#008acb"/>
+      <path d="M191 15c45-12 85-12 130 0l-65 241z" fill="#007ab5"/>
+      <path d="M14.5 321c-11.9-45-11.9-85 0-130l25-14L256 256 37.4 331z" fill="#00a6f0"/>
+      <path d="M14.5 191C26.4 147 46.7 112 79 79.6L256 256z" fill="#0098dc"/>
+      <path d="M191 497c-44-11-79-32-112-64l2.7-34L256 256l-40 229z" fill="#02c6ff"/>
+      <path d="M79 433c-32.3-33-52.6-68-64.5-112L256 256z" fill="#00baff"/>
+      <path d="M433 433c-33 32-68 53-112 64l-23-14-42-227 175 151z" fill="#002d4c"/>
+      <path d="M321 497c-45 12-85 12-130 0l65-241z" fill="#02d7ff"/>
+      <path d="M497 321c-11 44-32 79-64 112L256 256z" fill="#003957"/>
+    </g>
+  </symbol>
+
+  <title>Цветовые схемы</title>
+  <symbol id="complementary">
+    <desc>Комплиментарные (дополнительные, контрастные) цвета. Complementary Color Schemes - цвета, расположенные на противоположных сторонах цветового круга Иттена.</desc>
+    <line id="ver0" x1="256" y1="40" x2="256" y2="472" marker-start="url(#m1)" marker-end="url(#m1)"/>
+  </symbol>
+  <symbol id="triadic" stroke="black" stroke-width="3">
+    <desc>Классическую триаду (Triadic schemes) образуют три цвета, равноудаленных в круге Иттена. Гармоничность в триаде: один цвет - главный, а два других - для акцентов.</desc>
+    <g stroke="black" stroke-width="3">
+      <line id="ver0" x1="256" y1="40" x2="256" y2="256" marker-start="url(#m1)"/>
+      <line id="hor1" x1="256" y1="256" x2="442" y2="366" marker-end="url(#m1)"/>
+      <line id="ver2" x1="70" y1="366" x2="256" y2="256" marker-start="url(#m1)"/>
+    </g>
+  </symbol>
+  <symbol id="splitComplementary">
+    <desc>Контрастная триада (Compound (aka Split Complementary) Color.</desc>
+    <g stroke="black" stroke-width="3">
+      <line id="ver0" x1="256" y1="40" x2="256" y2="256" marker-start="url(#m1)"/>
+      <line id="ver1" x1="256" y1="256" x2="146" y2="442" marker-end="url(#m1)"/>
+      <line id="hor2" x1="256" y1="256" x2="366" y2="442" marker-end="url(#m1)"/>
+    </g>
+  </symbol>
+  <symbol id="analogous">
+    <desc>Аналоговая триада (Analogous Color Schemes).</desc>
+    <g stroke="black" stroke-width="3">
+      <line id="ver1" x1="256" y1="472" x2="146" y2="442" marker-start="url(#m1)" marker-end="url(#m1)"/>
+      <line id="hor2" x1="256" y1="472" x2="366" y2="442" marker-end="url(#m1)"/>
+    </g>
+  </symbol>
+  <symbol id="rectTetradic">
+    <desc>Прямоугольная схема (двойная комплиментарная) Double-complementory (Rectangle-tetradic) Color Scheme).</desc>
+    <g stroke="black" stroke-width="3">
+      <line id="hor0" x1="40" y1="256" x2="472" y2="256" marker-start="url(#m1)" marker-end="url(#m1)"/>
+      <line id="ver1" x1="366" y1="70" x2="146" y2="442" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    </g>
+  </symbol>
+  <symbol id="squarTetradic">
+    <desc>Квадратная схема (Squary-tetradic Color Schemes).</desc>
+    <g stroke="black" stroke-width="3">
+      <line id="ver1" x1="366" y1="70" x2="146" y2="442" marker-start="url(#m1)" marker-end="url(#m1)"/>
+      <line id="hor1" x1="70" y1="146" x2="442" y2="366" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    </g>
+  </symbol>
+  <symbol id="squarTetradic">
+    <desc>Квадратная схема (Squary-tetradic Color Schemes).</desc>
+    <g stroke="black" stroke-width="3">
+      <line id="ver1" x1="366" y1="70" x2="146" y2="442" marker-start="url(#m1)" marker-end="url(#m1)"/>
+      <line id="hor1" x1="70" y1="146" x2="442" y2="366" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    </g>
+  </symbol>
+  <symbol id="hexagonal">
+    <desc>Шестиугольная схема (Hexagonal Color Schemes).</desc>
+    <g stroke="black" stroke-width="3">
+      <line id="ver0" x1="256" y1="40" x2="256" y2="472" marker-start="url(#m1)" marker-end="url(#m1)"/>
+      <line id="hor1" x1="70" y1="146" x2="442" y2="366" marker-start="url(#m1)" marker-end="url(#m1)"/>
+      <line id="ver2" x1="70" y1="366" x2="442" y2="146" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    </g>
+  </symbol>
+  <symbol id="sideComplementar">
+    <desc>Шестиугольная схема (Side-complementar Color Schemes).</desc>
+    <g stroke="black" stroke-width="3">
+      <line id="ver0" x1="256" y1="40" x2="256" y2="256" marker-start="url(#m1)"/>
+      <line id="hor2" x1="256" y1="256" x2="366" y2="442" marker-end="url(#m1)"/>
+    </g>
+  </symbol>
+  <use href="#tertiary-wheel"/>
+  <use href="#secondary-wheel"/>
+  <use href="#primary-wheel"/>
+  <use href="#sideComplementar"/>
+
+</svg>

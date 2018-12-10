@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height="512" width="512">
+  <defs>
+    <marker id="m1" viewBox="0 0 10 10" refX="5" refY="5"
+     markerWidth="8" markerHeight="8">
+      <circle cx="5" cy="5" r="5" fill="000000"/>
+    </marker>
+  </defs>
+  <g stroke="black" stroke-width="3">
+    <line id="ver0" x1="256" y1="40" x2="256" y2="472" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    <line id="ver1" x1="366" y1="70" x2="146" y2="442" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    <line id="ver2" x1="70" y1="366" x2="442" y2="146" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    <line id="hor0" x1="40" y1="256" x2="472" y2="256" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    <line id="hor1" x1="70" y1="146" x2="442" y2="366" marker-start="url(#m1)" marker-end="url(#m1)"/>
+    <line id="hor2" x1="146" y1="70" x2="366" y2="442" marker-start="url(#m1)" marker-end="url(#m1)"/>
+  </g>
+</svg>

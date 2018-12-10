@@ -1,0 +1,19 @@
+<svg id="monochromicColorWheel" xmlns="http://www.w3.org/2000/svg" height="512" width="512">
+  <desc>
+    fill="#02d7ff"; fill="#02c6ff"; fill="#00baff"; fill="#00a6f0"; fill="#0098dc"; fill="#008acb"; fill="#007ab5"; fill="#016ca2"; fill="#005b8a"; fill="#004a71"; fill="#003957"; fill="#003333";
+  </desc>
+<g id="monochromic" stroke="#26c6da" stroke-width="2">
+  <path d="M497 191c12 45 12 85 0 130l-29 15-212-80 215-78z" fill="#004a71"/>
+  <path d="M321 15c44 11.8 79 32.1 112 64.6l-1 25.4-176 151 46-231.2z" fill="#016ca2"/>
+  <path d="M433 79.7C465 112 486 147 497 191l-241 65z" fill="#005b8a"/>
+  <path d="M79 79.6c33-32.5 68-52.8 112-64.6l24 13.6L256 256 78.5 105z" fill="#008acb"/>
+  <path d="M191 15c45-12 85-12 130 0l-65 241z" fill="#007ab5"/>
+  <path d="M14.5 321c-11.9-45-11.9-85 0-130l25-14L256 256 37.4 331z" fill="#00a6f0"/>
+  <path d="M14.5 191C26.4 147 46.7 112 79 79.6L256 256z" fill="#0098dc"/>
+  <path d="M191 497c-44-11-79-32-112-64l2.7-34L256 256l-40 229z" fill="#02c6ff"/>
+  <path d="M79 433c-32.3-33-52.6-68-64.5-112L256 256z" fill="#00baff"/>
+  <path d="M433 433c-33 32-68 53-112 64l-23-14-42-227 175 151z" fill="#002d4c"/>
+  <path d="M321 497c-45 12-85 12-130 0l65-241z" fill="#02d7ff"/>
+  <path d="M497 321c-11 44-32 79-64 112L256 256z" fill="#003957"/>
+</g>
+</svg>
